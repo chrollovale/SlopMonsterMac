@@ -1,8 +1,18 @@
-# SlopMonster for macOS (Native Swift Edition)
+<div align="center">
+  <img src="AppIcon_1024.png" width="100" height="100" alt="SlopMonster App Icon" />
+  <h1>SlopMonster for macOS</h1>
+  <p><b>Native desktop app & menu-bar companion to detect and eliminate AI tells & hollow prose</b></p>
 
-![Platform](https://img.shields.io/badge/platform-macOS%2014.0%2B-blue)
-![Swift](https://img.shields.io/badge/Swift-6.0%20%2F%20SwiftUI-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
+  [![Release](https://img.shields.io/github/v/release/chrollovale/SlopMonsterMac?style=flat-square&color=38bdf8)](https://github.com/chrollovale/SlopMonsterMac/releases/latest)
+  [![Platform](https://img.shields.io/badge/platform-macOS%2014.0%2B-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/chrollovale/SlopMonsterMac)
+  [![Swift](https://img.shields.io/badge/Swift-6.0-FA7343?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE)
+
+  <br />
+  <a href="https://github.com/chrollovale/SlopMonsterMac/releases/latest"><b>📥 Download SlopMonster for macOS (.zip)</b></a>
+</div>
+
+---
 
 A native, high-performance macOS desktop application and companion menu-bar system designed to detect and eradicate Large Language Model (AI) tells, robotic rhythms, and hollow prose from drafts.
 
@@ -107,3 +117,8 @@ SlopMonsterMac/
 ## License
 
 MIT License. Inspired by [ItsssssJack/SlopMonster](https://github.com/ItsssssJack/SlopMonster).
+
+---
+
+### ⭐ Support the Project
+If SlopMonster helped polish your writing or detect AI tells, please consider giving it a **Star** on GitHub!
